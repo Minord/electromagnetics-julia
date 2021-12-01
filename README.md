@@ -1,14 +1,14 @@
 # Electromagnetics
-This porject define methods for generate aproximate
+This project has methods for generate approximate
 solutions to Electrostatics and Magnetostatics
-Vizualize electric Fields in a clear way aim to
-graphically explore the properties of the maxwell equations
+Vizualise electric Fields in a clear way to
+graphically explore the properties of the **Maxwell's** equations
 
 ## Features
 
 ### Electrostatics
-* Coulomb Point Charge [x] 
-* Potencial of a Point Charge [x] 
+* Coulomb Point Charge 
+* Potencial of a Point Charge 
 ### Magnetostatics
-* Introduce Current Representation []
+* Introduce Current Representation
 ### Electro Motive Force
