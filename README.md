@@ -10,10 +10,10 @@ graphically explore the properties of the **Maxwell's** equations
 * Coulomb Point Charge 
 * Potencial of a Point Charge 
 ### Magnetostatics
-* Introduce Current Representation
-* Calculate Magnetic Field
+...
 ### Electro Motive Force
-* Make Simulations of electrons
-
+...
+### Electrodynamics
+...
 ### Energy
-* Analisys of Poyinting Fields
+...
