@@ -13,3 +13,4 @@ graphically explore the properties of the **Maxwell's** equations
 * Introduce Current Representation
 * Calculate Magnetic Field
 ### Electro Motive Force
+* Make Simulations of electrons
