@@ -11,4 +11,5 @@ graphically explore the properties of the **Maxwell's** equations
 * Potencial of a Point Charge 
 ### Magnetostatics
 * Introduce Current Representation
+* Calculate Magnetic Field
 ### Electro Motive Force
