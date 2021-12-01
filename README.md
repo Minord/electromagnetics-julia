@@ -14,3 +14,6 @@ graphically explore the properties of the **Maxwell's** equations
 * Calculate Magnetic Field
 ### Electro Motive Force
 * Make Simulations of electrons
+
+### Energy
+* Analisys of Poyinting Fields
