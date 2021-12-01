@@ -7,8 +7,8 @@ graphically explore the properties of the maxwell equations
 ## Features
 
 ### Electrostatics
-*Coulomb Point Charge 
-*Potencial of a Point Charge 
+* Coulomb Point Charge 
+* Potencial of a Point Charge 
 ### Magnetostatics
-*Introduce Current Representation
+* Introduce Current Representation
 ### Electro Motive Force
