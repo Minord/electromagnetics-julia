@@ -24,14 +24,14 @@ const μC = 1e-6
 const nC = 1e-9
 const pC = 1e-12
 
-#Farad Units
+#Faray Units
 const F = 1.0
 const mF = 1e-3
 const μF = 1e-6
 const nF = 1e-9
 const pF = 1e-12
 
-#Herry Units
+#Henrry Units
 const MH = 1e6
 const kH = 1e3
 const H = 1.0
@@ -49,3 +49,12 @@ const μm = 1e-6
 const nm = 1e-9
 const ̊A = 1e-10
 const pm = 1e-12
+
+#Ampere Units
+const MA = 1e6
+const kA = 1e3
+const A = 1.0
+const mA = 1e-3
+const μA = 1e-6
+const nA = 1e-9
+const pA = 1e-12

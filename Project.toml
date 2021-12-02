@@ -1,4 +1,5 @@
 title = "A project for vizualize the maxwell equations"
+version = 0.0.1
 
 [owner]
 name = "Diego Orellana (Minord)"
