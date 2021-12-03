@@ -5,7 +5,7 @@ const μ0 = 4e-7*π
 #Speed of Ligth
 const c = 299792458
 
-#Precaculated commond factor
+#Precaculated common factor
 const k_coulomb = 1 / (4π*ε0)
 const m_magnetic = 1 / (2π*μ0)
 

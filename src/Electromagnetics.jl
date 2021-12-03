@@ -8,19 +8,13 @@ include("electric_basics.jl")
 include("subdivide.jl")
 include("charges_bodies.jl")
 
+#export relevant constants
+export ε₀, μ₀, c
+
+export MV, kV, V, mV, μV, nV
+export C, mC, μC, nC, pC
+export F, mF, μF, nF, pF
+export km, m, cm, mm, μm, nm, ̊A, pm
 
 export electric, potencial
-
-export ChargeBody, LinearCharge,
-       SurfaceCharge, VolumetricCharge
-
-export subdivide
-
-export ε₀, μ₀
-export k_coulomb
-export m_magnetic
-
-export MV kV V mV μV nV
-export C mC μC nC
-
 end
