@@ -80,5 +80,5 @@ function electricfield(r⃗, charge)
     orders = calculate_orders(charge.geom, r⃗)
     sample = subdivide(orders)
     samples = geom.(sample)
-    sum(electric_field.(samples, r⃗)
+    sum(electric_field.(samples, r⃗))
 end

@@ -47,7 +47,7 @@ const cm = 1e-2
 const mm = 1e-3
 const μm = 1e-6
 const nm = 1e-9
-const ̊A = 1e-10
+const Amstrong = 1e-10
 const pm = 1e-12
 
 #Ampere Units
